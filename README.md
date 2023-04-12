@@ -1,4 +1,3 @@
 # analisis-estadistico-de-datos
-Análisis estadístico para identificar ingresos en una compañía de telecomunicaciones
 
-Para fines unicaménte de poner en práctica lo visto en el Sprint, se hizo uso de estos datos, la información presentada en este trabajo debe ser considerada como lo que es, un proyecto escolar.
+Este proyecto tiene como fin identificar que plan celular genera mayor cantidad de ingresos validando la información a través de pruebas de hipótesis.
